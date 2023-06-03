@@ -1,20 +1,7 @@
-# postgresql-useful-scripts
+# Libre Postgres Tools
 
-This a repository for useful PostgreSQL scripts and sql querys
-
-## Use
-
-Give permissions to execute_all.sh file:
-
-	chmod +x execute_all.sh
-
-Login as a postgres user:
-
-	sudo -i -u postgres
-
-And execute the execute_all.sh file:
-
-	./execute_all.sh
+This a repository of open source tools, scripts, functions, data, etc. that can be of use with PostgreSQL.  
+It was originally created as a fork from postgresql-useful-scripts
 
 ## Structure:
 
